@@ -51,7 +51,7 @@ class MasaCtrlModelLoader:
         return {
             "required": {
                 "model": (
-                    ["runwayml/stable-diffusion-v1-5"],
+                    ["runwayml/stable-diffusion-v1-5","Yntec/stable-diffusion-v1-5"],
                     {"default": "runwayml/stable-diffusion-v1-5"},
                 ),
                 "scheduler": ("SCHEDULER",)
