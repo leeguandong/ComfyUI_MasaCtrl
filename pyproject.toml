@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_masactrl"
+description = "ComfyUI nodes to use MasaCtrl"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_MasaCtrl"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_MasaCtrl"
+Icon = ""
